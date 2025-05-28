@@ -20,11 +20,6 @@ Java, Spring Boot 기반 백엔드 개발과 대규모 서비스 유지보수에
 ### Backend
 ![Java](https://img.shields.io/badge/Backend-Java-007396?logo=java&logoColor=white)
 
-### Framework
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![전자정부프레임워크](https://img.shields.io/badge/Framework-전자정부프레임워크-blue)
-
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![JSP](https://img.shields.io/badge/JSP-FF0033?logo=java&logoColor=white)
@@ -43,14 +38,19 @@ Java, Spring Boot 기반 백엔드 개발과 대규모 서비스 유지보수에
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
-### Tool
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-4C8DBA?logo=dbeaver&logoColor=white)
+### Framework
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![전자정부프레임워크](https://img.shields.io/badge/Framework-전자정부프레임워크-blue)
 
 ### Build
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
+
+### Tool
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-4C8DBA?logo=dbeaver&logoColor=white)
 
 ### Configuration Management
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
