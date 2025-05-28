@@ -1,10 +1,10 @@
-# Introduce
+### Introduce
 
-안녕하세요, 개발자 이한섭입니다. 👋
+## 안녕하세요, 개발자 이한섭입니다. 👋
 
-SI 및 SM 회사에서 다양한 산업 분야의 안정적인 시스템 구축과 운영 경험을 쌓았습니다.  
-Java, Spring Boot 기반 백엔드 개발과 대규모 서비스 유지보수에 강점을 가지고 있으며,  
-최근에는 React와 Spring Boot를 활용한 프론트엔드와 백엔드 개발 모두에 집중하고, 학습하고 있습니다.
+# SI 및 SM 회사에서 다양한 산업 분야의 안정적인 시스템 구축과 운영 경험을 쌓았습니다.  
+# Java, Spring Boot 기반 백엔드 개발과 대규모 서비스 유지보수에 강점을 가지고 있으며, 
+# 최근에는 React와 Spring Boot를 활용한 프론트엔드와 백엔드 개발 모두에 집중하고, 학습하고 있습니다.
 
 - 🔭 현재 학습중인 기술: React / Spring Boot  
 - ⚙️ 관심 분야: 프론트엔드 개발, 백엔드 개발, 클린 코드 작성
@@ -17,12 +17,12 @@ Java, Spring Boot 기반 백엔드 개발과 대규모 서비스 유지보수에
 
 ---
 
-## 기술 스택 및 자격증
+### STACK
 
-- ### Backend
+- ## Backend
 ![Java](https://img.shields.io/badge/Backend-Java-007396?logo=java&logoColor=white)
 
-### Frontend
+- ## Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![JSP](https://img.shields.io/badge/JSP-FF0033?logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -32,45 +32,45 @@ Java, Spring Boot 기반 백엔드 개발과 대규모 서비스 유지보수에
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Ajax](https://img.shields.io/badge/Ajax-005F0F?style=flat&logo=ajax&logoColor=white)
 
-### Application Server
+- ## Application Server
 ![WebSphere 5](https://img.shields.io/badge/WebSphere-5-0071BC)
 
-### Database
+- ## Database
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
-### Framework
+- ## Framework
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![전자정부프레임워크](https://img.shields.io/badge/Framework-전자정부프레임워크-blue)
 
-### Build
+- ## Build
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
 
-### Tool
+- ## Tool
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-4C8DBA?logo=dbeaver&logoColor=white)
 
-### Configuration Management
+- ## Configuration Management
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?logo=subversion&logoColor=white)
 
-### Deployment / CI-CD Tools
+- ## Deployment / CI-CD Tools
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-2AB8E6?logo=render&logoColor=white)
 
-### Certification
+- ## Certification
 ![정보처리기사](https://img.shields.io/badge/Certification-정보처리기사-blue)
 
 
 ---
 
-## 사이드 프로젝트
+### Side Project
 
-### 1. 메이플스토리 오픈 API 기반 캐릭터 정보 분석 웹사이트 개발  
+- ## 1. 메이플스토리 오픈 API 기반 캐릭터 정보 분석 웹사이트 개발  
 - **기간:** 2025.03 ~ 2025.05  
 - **기술 스택:** React.js, Bootstrap 5, Media Query, Chart.js, Netlify  
 
@@ -84,7 +84,7 @@ Java, Spring Boot 기반 백엔드 개발과 대규모 서비스 유지보수에
 
 ---
 
-### 2. 반응형 개인 포트폴리오 웹사이트 개발  
+- ## 2. 반응형 개인 포트폴리오 웹사이트 개발  
 - **기간:** 2025.02 ~ 2025.03  
 - **기술 스택:** HTML5, CSS3, Bootstrap 5, Media Query, JavaScript  
 
