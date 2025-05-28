@@ -19,7 +19,7 @@ Java, Spring Boot 기반 백엔드 개발과 대규모 서비스 유지보수에
 
 ## 기술 스택 및 자격증
 
-- Backend
+- ### Backend
 ![Java](https://img.shields.io/badge/Backend-Java-007396?logo=java&logoColor=white)
 
 ### Frontend
